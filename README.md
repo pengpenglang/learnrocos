@@ -1,6 +1,9 @@
 # learnrocos
 
-pengpenglang 的 OpenSSL 学习记录
+⚽ 本仓库为 CUGB足球机器人队团体学习 OpenSSL 记录
 
-* rocos 配置的[食用文档](https://github.com/pengpenglang/learnrocos/blob/main/rocos%E9%85%8D%E7%BD%AE%E5%B8%AE%E5%8A%A9/%E9%A3%9F%E7%94%A8%E6%96%87%E6%A1%A3.md)
+> 维护负责人：19级计算机科学与技术专业 pengpenglang
+
+* `ubantu18.04` 配置安装 `rocos` 平台避坑手册2.0 📙
+* `ubantu18.04` 美化主题&实用应用推荐 📘
 
